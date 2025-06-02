@@ -18,7 +18,7 @@ public:
     void display()
     {
         cout << "x = " << x << endl;
-        cout << "y = " << by << endl;
+        cout << "y = " << y << endl;
     }
 };
 int main()
