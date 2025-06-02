@@ -14,4 +14,14 @@ public:
         x = a;
         y = b;
     }
+    // Menampilkan nilai
+    void display()
+    {
+        cout << "x = " << x << endl;
+        cout << "y = " << by << endl;
+    }
+};
+int main()
+{
+    AbstraksiKlas ak;
 }
